@@ -1,7 +1,7 @@
-# [Data Analysis in Python using SQL syntax]
+# Data Analysis in Python using SQL syntax
 
 ## Description
-In this demonstration I will use python to create a local database connection to a sample SQLite database (DB), view all tables in SQLite database with SQL syntax. Generate graphical charts to disply basic analytics within Panda charts.
+In this demonstration I will use python to create a local connection to a sample SQLite database. Manually create SQL syntax to view table data and generate graphical charts to disply basic analytics within Panda charts.
 
 
 ## Technologies Used
